@@ -1320,7 +1320,7 @@ footer .copyright
 
    }
 
-   #navbar .active
+   #navbar.active
    {
     right: 0px;
    }
